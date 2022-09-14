@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+}
+.heading{
+    font-size: 45px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+.para{
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+img{
+    float: left;
+    margin-right: 50px;
+}
+.content{
+    padding: 90px ;
+    padding-left: 20px;
+    
+}
+
+.dollar{
+    font-size: 40px;
+    display: inline-block;
+    width: 150px;
+    color: rgb(2, 159, 2);
+}
+.dollarc{
+    display: inline-block;
+    color: rgb(119, 114, 114);
+}
+button{
+    width: 300px;
+    height: 40px;
+    border: 1px solid ;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    font-size: 15px;
+    
+}
